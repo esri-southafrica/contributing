@@ -1,7 +1,7 @@
-Contributing to Esri Open Source Projects
+Contributing to Esri South Africa Open Source Projects
 =========================================
 
-Esri welcomes contributions to our [open source projects on Github](http://esri.github.io/). 
+Esri South Africa welcomes contributions to our [open source projects on Github](http://esri-southafrica.github.io/). 
 
 Issues
 ------
@@ -23,9 +23,9 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 Copyright and Licensing
 -----------------------
 
-Most Esri open source projects are licensed under the Apache 2.0 license. 
+Most Esri South Africa open source projects are licensed under the Apache 2.0 license. 
 
-Esri does not require you to assign the copyright of your contributions, you retain the copyright. Esri does require that you make your contributions available under the Apache license in order to be included in the main repo.
+Esri South Africa does not require you to assign the copyright of your contributions, you retain the copyright. Esri South Africa does require that you make your contributions available under the Apache license in order to be included in the main repo.
 
 If appropriate, include the Apache 2.0 license summary at the top of each file along with the copyright info. If you are adding a new file that you wrote, include your name in the copyright notice in the license summary at the top of the file.
 
@@ -34,7 +34,7 @@ If appropriate, include the Apache 2.0 license summary at the top of each file a
 You can copy and paste the Apache 2.0 license summary from below.
 
 ```
-Copyright 2013 by Esri
+Copyright 2014 by Esri South Africa
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
